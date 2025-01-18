@@ -5,7 +5,8 @@ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizab
 Amazon EC2 enables users to launch instances based on pre-configured Amazon Machine Images (AMIs). These instances run within virtual private clouds (VPCs) and can be configured with various resources like CPU, memory, storage, and networking.
 
 ### 3. What are the different instance types in EC2?
-Amazon EC2 offers a wide range of instance types optimized for different use cases, such as general-purpose, memory-optimized, compute-optimized, and GPU instances.
+Amazon EC2 offers a wide range of instance types optimized for different use cases, such as general-purpose, memory-optimized, compute-optimized, and GPU instances. \
+For more information please visit https://aws.amazon.com/ec2/instance-types/
 
 ### 4. Explain the differences between on-demand, reserved, and spot instances.
 - On-Demand Instances: Pay-as-you-go pricing with no upfront commitment.
